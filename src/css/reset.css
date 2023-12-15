@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Manrope:wght@800&family=Oxanium:wght@400;700&family=Public+Sans:wght@400;800&family=Rubik&family=Secular+One&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 400;
+}
+
+ul li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #ffffff;
+}
+
